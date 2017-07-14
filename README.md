@@ -1,7 +1,8 @@
 # GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
-*Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
+> - Reccomended starting video; [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c)
+> - Reccomended starting course; [GitHub & Collaboration - Udacity](https://www.udacity.com/course/github-collaboration--ud456)
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
@@ -76,6 +77,8 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
       - [Git Books](#git-books)
       - [Git Videos](#git-videos)
       - [Git Articles](#git-articles)
+      - [Git Commands](#other-git-commands)
+      - [Other Markdown Formatting Resources](#other-markdown-formatting-resources)
 
 ## GitHub
 ### Ignore Whitespace
@@ -1051,3 +1054,21 @@ $ git config --global color.ui 1
 | Title | Link |
 | ----- | ---- |
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
+
+#### Other Git Commands
+| Title | Link |
+| ----- | ---- |
+| The most useful git commands  | https://orga.cat/posts/most-useful-git-commands |
+| Super Useful Need To Know Git Commands | http://zackperdue.com/tutorials/super-useful-need-to-know-git-commands |
+| Basic Git commands | https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html | 
+| Most useful GIT commands | https://tmorcinek.wordpress.com/most-useful-git-commands/ |
+| Most useful git commands | https://coderwall.com/p/sh3xla/most-useful-git-commands |
+| Useful git commands | https://gist.github.com/abadongutierrez/9920732 |
+| Useful Git Commands | https://davidwalsh.name/git-commands |
+
+#### Other Markdown Formatting Resources
+| Title | Link |
+| ----- | ---- |
+| Markdown Cheatsheet | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
+| Basic writing and formatting syntax | https://help.github.com/articles/basic-writing-and-formatting-syntax/ |
+| Mastering Markdown | https://guides.github.com/features/mastering-markdown/ |
